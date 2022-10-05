@@ -10,7 +10,7 @@ Yapmamız gereken işler:
 * Feature Engineering
 * Standardization
 * Model Building
-* tahminleme
+* Tahminleme
 
 Dataset'imizi Açıklayalım:
 * Age : Hastanın yaşı
