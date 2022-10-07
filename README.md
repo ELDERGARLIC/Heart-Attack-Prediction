@@ -15,7 +15,7 @@ Yapmamız gereken işler:
 Dataset'imizi Açıklayalım:
 * Age : Hastanın yaşı
 * Sex : Hastanın cinsiyeti
-* exang: göğüs ağrısı yapan egzersiz (1 = evet;0 = hayır)
+* exang: göğüs ağrısı yapan egzersiz (1 = evet; 0 = hayır)
 * ca: ana kan damarı sayısı (0-3)
 * cp : Göğüs ağrısı tipi
 * 0: tipik anjinal
